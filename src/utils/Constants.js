@@ -1,0 +1,1 @@
+export const jurnolImg="https://cdn-icons-png.flaticon.com/128/10748/10748360.png";
