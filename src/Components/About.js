@@ -15,7 +15,8 @@ const About = () => {
         </h1>
 
         <p className="text-gray-500 mb-6 text-sm">
-          MERN Stack Developer | React | Redux | Tailwind CSS | Java | DSA
+          Java Spring Boot | Maven | Sql | React | Redux | Tailwind CSS | Java |
+          DSA
         </p>
 
         <div className="space-y-4 w-full">
